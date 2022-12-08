@@ -18,11 +18,11 @@
 **<h2 align="left">Connect with me:</h3>**
 <br/>
 <p align="left">
-<a href="https://linkedin.com/in/joeliramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeliramos" height="30" width="40" /></a>
-<a href="https://instagram.com/joel1ramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joel1ramos" height="30" width="40" /></a>
-<a href="https://hashnode.com/@joeliramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@joeliramos" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/joeliramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joeliramos" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/joeliramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="joeliramos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joeliramos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeliramos" height="30" width="40" /></a>
+<a href="https://instagram.com/joel1ramos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joel1ramos" height="30" width="40" /></a>
+<a href="https://hashnode.com/@joeliramos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@joeliramos" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/joeliramos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joeliramos" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/joeliramos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="joeliramos" height="30" width="40" /></a>
 </p>
 <br/>
 <h2 align="left"> <b> Languages and Tools I have used in the last 4 years:</b> </h3>
