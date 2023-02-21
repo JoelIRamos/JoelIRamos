@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joel Ramos</h1>
 <h3 align="center">A passionate backend developer from México with lately a big curiosity about cybersecurity</h3>
 
-- 🔭 I’m currently working on **several certifications such as CCNA 2, NSE2 and many others.**
+- 🔭 I’m currently working on **several certifications such as CCNA 3, NSE3, Google Project Manager and many others.**
 
-- 🌱 I’m currently learning **about Networks, Linux and Cybersecurity. I recently finished the CCNA 1 and the CyberOps from Cisco Academy.**
+- 🌱 I’m currently learning **about Networks, Linux and Cybersecurity. I recently finished the CCNA 2 and the CyberOps from Cisco Academy.**
 
 - 👨‍💻 All of my projects are available at [JoelIRamos/Portfolio](https://github.com/JoelIRamos/Portfolio).
 
-- 💬 Ask me about **Networks, Databases (SQL and NotSQL), API Dev, and Cibersecurity.**
+- 💬 Ask me about **Networks, Databases (SQL and NotSQL), WebAPI Dev, and Cibersecurity.**
 
-- 📫 Reach me preferably with my academic email **a01245083@tec.mx**, if not by my personal **joeliramosh@gmail.com**.
+- 📫 Reach me preferably with my academic email **a01245083@tec.mx**, if not by my personal email **joeliramosh@gmail.com**.
 
 - 📄 Know about my latest and greatest experiences in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificados/Joel-Ramos-Curr%C3%ADculum-vitae.png).
 
