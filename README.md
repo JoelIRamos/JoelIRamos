@@ -1,21 +1,21 @@
-<h1 align="center">Welcome to my Portfolio, \I'm Joel Ramos</h1>
+<h1 align="center">Welcome to my Portfolio, I'm Joel Ramos</h1>
 <h3 align="center">B.S. in Computer Science and Technology. Interested in Network Management and Cybersecurity</h3>
 
 <br>
 
 **<h2 align="left">About myself:</h2>**
 <br>
-- I’m currently working on **the Cisco CCNA3.**
+- I’m currently working on **the Cisco Academy CCNA3 certification.**
 
-- I’m currently learning **about Networks, Linux and Cybersecurity. I recently finished the CCNA 2 and the CyberOps from Cisco Academy.**
+- I’m currently learning **about Networks, Linux and Cybersecurity. I've done finished the CCNA 1-2 and the CyberOps from Cisco Academy.**
 
 - All of my projects are available at [JoelIRamos/Portfolio](https://github.com/JoelIRamos/Portfolio).
 
 - Ask me about **Networks, Databases (SQL and NotSQL), API Dev, and Cibersecurity.**
 
-- Reach me preferably with my academic email **a01245083@tec.mx**, if not by my personal **joeliramosh@gmail.com**.
+- Reach me preferably with my personal email **joeliramosh@gmail.com**.
 
-- Know about my latest and greatest experiences in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificados/Joel-Ramos-Curr%C3%ADculum-vitae.png).
+- Know about my latest and greatest achivements in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificados/Joel-Ramos-Curr%C3%ADculum-vitae.png).
 
 - Fun fact: **I have an enormous collection of playing cards, my favorites are from Theory11**.
 
@@ -77,6 +77,7 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+    <a href="https://www.airtable.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/airtable_logo_icon_169628.png" alt="vuejs" width="40" height="40"/> </a> 
 </p> 
 
 <br>
