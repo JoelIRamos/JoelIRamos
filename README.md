@@ -1,23 +1,23 @@
-<h1 align="center">Welcome to my Portfolio  👋, I'm Joel Ramos</h1>
-<h3 align="center">B.S. in Computer Science and Technology Student Interested in Network Management and Cybersecurity</h3>
+<h1 align="center">Welcome to my Portfolio, \I'm Joel Ramos</h1>
+<h3 align="center">B.S. in Computer Science and Technology. Interested in Network Management and Cybersecurity</h3>
 
 <br>
 
-**<h2 align="left">A little about myself:</h2>**
+**<h2 align="left">About myself:</h2>**
 <br>
-- 🔭 I’m currently working on **several certifications such as CCNA 3, NSE3, Google Project Manager and many others.**
+- I’m currently working on **the Cisco CCNA3.**
 
-- 🌱 I’m currently learning **about Networks, Linux, Cybersecurity and Project Management. I recently finished the CCNA 2 and the CyberOps from Cisco Academy.**
+- I’m currently learning **about Networks, Linux and Cybersecurity. I recently finished the CCNA 2 and the CyberOps from Cisco Academy.**
 
-- 👨‍💻 All of my projects are available at [JoelIRamos/Portfolio](https://github.com/JoelIRamos/Portfolio).
+- All of my projects are available at [JoelIRamos/Portfolio](https://github.com/JoelIRamos/Portfolio).
 
-- 💬 Ask me about **Networks, Databases (SQL and NotSQL), API Dev, and Cibersecurity.**
+- Ask me about **Networks, Databases (SQL and NotSQL), API Dev, and Cibersecurity.**
 
-- 📫 Reach me preferably with my academic email **a01245083@tec.mx**, if not by my personal **joeliramosh@gmail.com**.
+- Reach me preferably with my academic email **a01245083@tec.mx**, if not by my personal **joeliramosh@gmail.com**.
 
-- 📄 Know about my latest and greatest experiences in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificados/Joel-Ramos-Curr%C3%ADculum-vitae.png).
+- Know about my latest and greatest experiences in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificados/Joel-Ramos-Curr%C3%ADculum-vitae.png).
 
-- ⚡ Fun fact: **I have an enormous collection of playing cards, my favorites are from Theory11**.
+- Fun fact: **I have an enormous collection of playing cards, my favorites are from Theory11**.
 
 <br>
 
