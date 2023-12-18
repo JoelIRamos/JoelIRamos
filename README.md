@@ -7,7 +7,7 @@
 <br>
 - I’m currently working on **the Cisco Academy CCNA3 certification.**
 
-- I’m currently learning **about Networks, Linux and Cybersecurity. I've done finished the CCNA 1-2 and the CyberOps from Cisco Academy.**
+- I’m passionate **about Networks, Linux and Cybersecurity. I've done finished the CCNA 1-2 and the CyberOps from Cisco Academy.**
 
 - All of my projects are available at [JoelIRamos/Portfolio](https://github.com/JoelIRamos/Portfolio).
 
