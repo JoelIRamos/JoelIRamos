@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Portfolio, I'm Joel Ramos</h1>
+<h1 align="center">Welcome, I'm Joel Ramos</h1>
 <h3 align="center">B.S. in Computer Science and Technology. Interested in Network Management and Cybersecurity</h3>
 
 <br>
