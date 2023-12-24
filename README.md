@@ -24,7 +24,11 @@
 **<h2 align="left">Connect with me:</h3>**
 <br/>
 <p align="left">
-<a href="https://linkedin.com/in/joeliramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeliramos" height="30" width="40" /></a>
+<!--   
+<a href="https://linkedin.com/in/joeliramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeliramos" height="30" width="40" /></a>-->
+
+<!--https://www.linkedin.com/in/joeliramos -->
+
 <a href="https://instagram.com/joel1ramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joel1ramos" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/joeliramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joeliramos" height="30" width="40" /></a>
 </p>
