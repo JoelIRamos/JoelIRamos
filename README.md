@@ -15,7 +15,7 @@
 
 - Reach me preferably with my personal email **joeliramosh@gmail.com**.
 
-- Know about my latest and greatest achivements in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificados/Joel-Ramos-Curr%C3%ADculum-vitae.png).
+- Know about my latest and greatest achivements in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificates_and_Diplomas/Curr%C3%ADculum-vitae-JoelRamos.pdf).
 
 - Fun fact: **I have an huge collection of playing cards. My favorite ones are from Theory11**.
 
