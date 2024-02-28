@@ -5,9 +5,9 @@
 
 **<h2 align="left">About myself:</h2>**
 <br>
-- I’m passionate **about Networks, Linux and Cybersecurity. I've done finished the CCNA 1-2 and the CyberOps from Cisco Academy.**
+- I’m passionate **about Networks, Linux and Cybersecurity. I've finished the CCNA and the CyberOps certifications from Cisco Academy.**
 
-- I’m currently working on **the Cisco Academy CCNA3 certification.**
+- I’m currently studiyng for **the Cisco Networks CCNA3.**
 
 - Ask me about **Networks, Databases (SQL and NotSQL), API Development, and Cibersecurity.**
 
@@ -17,7 +17,7 @@
 
 - Know about my latest and greatest achivements in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificates_and_Diplomas/Curr%C3%ADculum-vitae-JoelRamos.pdf).
 
-- Fun fact: **I have an huge collection of playing cards. My favorite ones are from Theory11**.
+- Fun fact: **I have an vast collection of playing cards. My favorite ones are from Theory11**.
 
 <br>
 
