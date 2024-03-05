@@ -92,6 +92,8 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+[![Update badges](https://github.com/JoelIRamos/JoelIRamos/actions/workflows/main.yml/badge.svg)](https://github.com/JoelIRamos/JoelIRamos/actions/workflows/main.yml)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeliramos&show_icons=true&locale=en&layout=compact" alt="joeliramos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeliramos&show_icons=true&locale=en" alt="joeliramos" /></p>
