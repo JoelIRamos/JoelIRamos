@@ -89,6 +89,9 @@
 
 <br>
 
+**<h2 align="left">Badges:</h2>**
+<br>
+
 <!--START_SECTION:badges-->
 [![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/ca986b8d-4cf1-4770-9615-1a3090d17243 "CCNA: Enterprise Networking, Security, and Automation")
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/5886e728-3b8d-420f-b1ab-ff1b52f84168 "CCNA: Switching, Routing, and Wireless Essentials")
@@ -96,7 +99,6 @@
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/34e318e5-1794-40cd-9e9a-1a93fb745ec2 "CCNA: Introduction to Networks")
 <!--END_SECTION:badges-->
 
-[![Update badges](https://github.com/JoelIRamos/JoelIRamos/actions/workflows/main.yml/badge.svg)](https://github.com/JoelIRamos/JoelIRamos/actions/workflows/main.yml)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeliramos&show_icons=true&locale=en&layout=compact" alt="joeliramos" /></p>
 
