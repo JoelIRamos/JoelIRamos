@@ -99,6 +99,9 @@
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/34e318e5-1794-40cd-9e9a-1a93fb745ec2 "CCNA: Introduction to Networks")
 <!--END_SECTION:badges-->
 
+<br>
+
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeliramos&show_icons=true&locale=en&layout=compact" alt="joeliramos" /></p>
 
