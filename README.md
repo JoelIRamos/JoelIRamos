@@ -7,7 +7,7 @@
 <br>
 - I’m passionate **about Networks, Linux and Cybersecurity. I've finished the CCNA and the CyberOps certifications from Cisco Academy.**
 
-- I’m currently studiyng for **the Cisco Networks CCNA3.**
+- I’m currently studiyng for **the Cisco Networks CCNA.**
 
 - Ask me about **Networks, Databases (SQL and NotSQL), API Development, and Cibersecurity.**
 
