@@ -92,6 +92,14 @@
 **<h2 align="left">Badges:</h2>**
 <br>
 
+<!-- ITESM Badges -->
+<a href="https://api.badgr.io/public/assertions/gEof2lsMTbazEyLMV6uXRA"> <img src="https://api.badgr.io/public/assertions/gEof2lsMTbazEyLMV6uXRA/image" alt="Ciberseguridad Informática" width="110" height="110"/></a>
+<a href="https://api.badgr.io/public/assertions/pBqXWEB8TJmlab-Y7WL_nA"> <img src="https://api.badgr.io/public/assertions/pBqXWEB8TJmlab-Y7WL_nA/image" alt="Implementación de infraestructura computacional" width="110" height="110"/></a>
+<a href="https://api.badgr.io/public/assertions/yemMo6geSzyfRS7-q2wi2w"> <img src="https://api.badgr.io/public/assertions/yemMo6geSzyfRS7-q2wi2w/image" alt="Desarrollo de algoritmos computacionales" width="110" height="110"/></a>
+<a href="https://api.badgr.io/public/assertions/uIQHpZYNTTGZhCYuqru-Mw"> <img src="https://api.badgr.io/public/assertions/uIQHpZYNTTGZhCYuqru-Mw/image" alt="Desarrollo de sistemas de software" width="110" height="110"/></a>
+
+<!-- Credly Badges -->
+
 <!--START_SECTION:badges-->
 [![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/ca986b8d-4cf1-4770-9615-1a3090d17243 "CCNA: Enterprise Networking, Security, and Automation")
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/5886e728-3b8d-420f-b1ab-ff1b52f84168 "CCNA: Switching, Routing, and Wireless Essentials")
