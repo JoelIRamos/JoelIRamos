@@ -7,13 +7,13 @@
 <br>
 - I’m passionate **about Networks, Linux and Cybersecurity. I've finished the CCNA and the CyberOps certifications from Cisco Academy.**
 
-- I’m currently studiyng for **the Cisco Networks CCNA.**
+- I’m currently working at a NOC as Level 1 **Network Engineer**.
 
 - Ask me about **Networks, Databases (SQL and NotSQL), API Development, and Cibersecurity.**
 
 - All of my projects are available at [JoelIRamos/Portfolio](https://github.com/JoelIRamos/Portfolio).
 
-- Reach me preferably with my personal email **joeliramosh@gmail.com**.
+- Reach me preferably by my personal email **joeliramosh@gmail.com**.
 
 - Know about my latest and greatest achivements in my [CV](https://github.com/JoelIRamos/Portfolio/blob/main/Certificates_and_Diplomas/Curr%C3%ADculum-vitae-JoelRamos.pdf).
 
